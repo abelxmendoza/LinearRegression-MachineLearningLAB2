@@ -1,4 +1,4 @@
-# Linear Regression - Machine Learning Lab 2
+# Linear Regression - Machine Learning CPSC-483 Lab 2
 
 This repository contains a Jupyter Notebook for the Machine Learning Lab 2 assignment on Linear Regression.
 
@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://chat.
 
 ## Acknowledgments
 
-* This assignment is part of the Computer Science Machine Learning course at California State University Fullerton.
+* This assignment is part of the Computer Science Machine Learning CPSC483 course at California State University Fullerton.
 * Thanks to the instructors and teaching assistants for their guidance.
 
 ## Documentation 
